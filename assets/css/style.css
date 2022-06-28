@@ -433,6 +433,15 @@ section {
 	font-weight: 600;
 	margin-bottom: 10px;
 }
+.timestamp {
+	font-size: 14px;
+	background: #e4edf9;
+	padding: 5px 5px;
+	display: inline-block;
+	font-weight: 500;
+	margin-top: 7px;
+	margin-bottom: 10px;
+}
 .edu .edu-item ul {
 	padding-left: 20px;
 }
