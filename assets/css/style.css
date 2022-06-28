@@ -175,8 +175,8 @@ a:hover {
 /* Mobile Navigation */
 .mobile-nav-toggle {
 	position: fixed;
-	right: 15px;
-	top: 15px;
+	right: 7px;
+	top: 10px;
 	z-index: 9998;
 	border: 0;
 	font-size: 24px;
@@ -273,7 +273,7 @@ section {
 }
 
 .section-title {
-	padding-bottom: 30px;
+	padding-bottom: 20px;
 }
 .section-title h2 {
 	font-size: 32px;
@@ -975,4 +975,7 @@ section {
 		width: auto;
 		padding-right: 20px 15px;
 	}
+}
+.bg-green {
+	background: #122e0b;
 }
